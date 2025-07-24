@@ -1,4 +1,4 @@
-# codealpha_tasks
+# Hangman_Game
 This is a simple text-based hangman game where player guesses a word one letter at a time.
 Simplified Scope:
 ● Use a small list of 5 predefined words (no need to use a file or API).
